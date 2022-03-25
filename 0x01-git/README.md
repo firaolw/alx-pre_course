@@ -1,2 +1,2 @@
-# Updated README file alx
-I'm now a ALX Student, this is my first repository as a full-stack engineer
+﻿# alx-pre_course
+### This include creating a file directory on your computer named *alx_pre_course* and then moving it to github account respository named *alx_pre_course.git*
